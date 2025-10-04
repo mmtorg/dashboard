@@ -1,0 +1,6 @@
+**/**
+!dist/**        # distだけアップ
+!appsscript.json # マニフェストはプロジェクト直下を使う場合は !appsscript.json に変更
+src/**
+node_modules/**
+*.map
